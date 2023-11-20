@@ -9,6 +9,7 @@ Welcome to the Bouncy Ball Game with a twist! In this project, I've enhanced our
 - [Game Controls](#game-controls)
 - [Code Structure](#code-structure)
 - [Author](#author)
+- [Tutorial Source](#tutorial-source)
 
 ### Features
 
@@ -52,6 +53,12 @@ The project structure is organized as follows:
 - Asst. Professor
 - Dept. of Computer Science
 - Mar Augusthinose College, Ramapuram
+
+### Tutorial Source
+
+This project is based on the "Introducing JavaScript objects" tutorial available on Mozilla Developer Network:
+
+[Introducing JavaScript objects - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 ---
 
