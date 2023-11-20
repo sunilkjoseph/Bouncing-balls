@@ -11,7 +11,7 @@ Welcome to the Bouncy Ball Game with a twist! In this project, I've enhanced our
 - [Author](#author)
 - [Tutorial Source](#tutorial-source)
 
-### Features
+## Features
 
 1. User-Controlled Evil Circle: Take control of an evil circle that can devour the bouncing balls. Can you catch them all?
 
@@ -19,7 +19,7 @@ Welcome to the Bouncy Ball Game with a twist! In this project, I've enhanced our
 
 3. Score Counter: Keep track of your performance with a built-in score counter. The goal is to capture as many balls as possible before they escape!
 
-### Getting Started
+## Getting Started
 
 To run the game locally, follow these steps:
 
@@ -31,7 +31,7 @@ To run the game locally, follow these steps:
 
 4. Start playing! Control the evil circle with your keyboard and try to capture as many balls as you can.
 
-### Game Controls
+## Game Controls
 
 - Evil Circle Movement:
     - Use the `w` key to move the circle upward.
@@ -39,7 +39,7 @@ To run the game locally, follow these steps:
     - Use the `a` key to move the circle to the left.
     - Use the `d` key to move the circle to the right.
 
-### Code Structure
+## Code Structure
 
 The project structure is organized as follows:
 
@@ -47,14 +47,14 @@ The project structure is organized as follows:
 - `style.css`: Stylesheet for the game layout.
 - `script.js`: JavaScript file containing the game logic, including the Shape object, bouncing balls, and user-controlled evil circle.
 
-### Author
+## Author
 
 - Sunil K Joseph
 - Asst. Professor
 - Dept. of Computer Science
 - Mar Augusthinose College, Ramapuram
 
-### Tutorial Source
+## Tutorial Source
 
 This project is based on the "Introducing JavaScript objects" tutorial available on Mozilla Developer Network:
 
