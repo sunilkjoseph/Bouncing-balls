@@ -6,8 +6,9 @@ Welcome to the Bouncy Ball Game with a twist! In this project, I've enhanced our
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Game Controls](#gamecontrols)
-- [Code Structure](#codestructure)
+- [Game Controls](#game-controls)
+- [Code Structure](#code-structure)
+- [Author](#author)
 
 ### Features
 
